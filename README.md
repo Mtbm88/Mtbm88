@@ -1,4 +1,4 @@
-<p> Hi everybody! 👋</p>
+<p <stile> margin: center; color: seagreen;</stile> > Hi everybody! 👋</p>
 <br> 
 
 <h1>Mervilly<br> <img src="https://raw.githubusercontent.com/Mtbm88/Mtbm88/refs/heads/main/presentacion.gif"></h1>
