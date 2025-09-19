@@ -1,16 +1,12 @@
-## Hi there 👋
+<p> Hi everybody! 👋</p>
+<br> 
 
-<!--
-**Mtbm88/Mtbm88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Mervilly<br> <img></h1>
+<h2>About me</h2>
+<p>
+- 🔭 I’m currently working on leveling up my skills!
+- 🌱 Recently I've been learning cybersecurity and web dev.
+- 🍀 Sometimes I remember I am a Lawyer and learn about Risk, Compliance and Gobernance too. 
+- But, don't worry, I'm an Aquarius ♒  I always learn something new. 
+<p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
